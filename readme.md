@@ -24,7 +24,7 @@
 <details>
   <summary>Get Started (with DLL)</summary>
   
-### Download Release <a href="/releases">(Click)</a>
+### Download Release <a href="https://github.com/karcan/ReportBuilder-Converter_.NET-Standard/releases">(Click)</a>
   
   * * *
   
