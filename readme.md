@@ -1,4 +1,4 @@
-## .NET Core Converter for "Microsoft SQL Server Report Builder"
+## .NET Standard Converter for "Microsoft SQL Server Report Builder"
 
 <details>
   <summary>Get Started (with Source)</summary>
